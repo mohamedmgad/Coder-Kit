@@ -1,3 +1,19 @@
+/* Strat Variable Color  */
+:root {
+  --red: #db2828;
+  --orange: #f2711c;
+  --yellow: #fbbd08;
+  --green: #21ba45;
+  --teal: #00b5ad;
+  --blue: #2185d0;
+  --violet: #6435c9;
+  --purple: #a333c8;
+  --pink: #e03997;
+  --brown: #a5673f;
+  --grey: #767676;
+  --black: #1b1c1d;
+}
+/* End Variable Color */
 /* Start Container Layout */
 .container {
     padding-left: 15px;
@@ -235,6 +251,133 @@ margin-left: 20px;
 .p-l-20 {
     padding-left: 20px;
 }
-
+/* End Padding */
+/* Strat Background  Color  */
+.bg-red {
+  background-color: var(--red);
+}
+.bg-orange {
+  background-color: var(--orange);
+}
+.bg-yellow {
+  background-color: var(--yellow);
+}
+.bg-green {
+  background-color: var(--green);
+}
+.bg-teal {
+  background-color: var(--teal);
+}
+.bg-blue {
+  background-color: var(--blue);
+}
+.bg-violet {
+  background-color: var(--violet);
+}
+.bg-purple {
+  background-color: var(--purple);
+}
+.bg-pink {
+  background-color: var(--pink);
+}
+.bg-brown {
+  background-color: var(--brown);
+}
+.bg-grey {
+  background-color: var(--grey);
+}
+.bg-black {
+  background-color: var(--black);
+}  
+/* End Background Color  */  
+/* Strat Text Layout  */ 
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.text-nowrap {
+  white-space: nowrap;
+}
+.text-lower {
+  text-transform: lowercase;
+}
+.text-cap {
+  text-transform: capitalize;
+}
+.text-upper {
+  text-transform: uppercase;
+}
+.text-white {
+  color: white;
+}
+.text-mute {
+  color: #6c757d;
+}
+.text-red {
+  color: var(--red);
+}
+.text-orange {
+  color: var(--orange);
+}
+.text-yellow {
+  color: var(--yellow);
+}
+.text-green {
+  color: var(--green);
+}
+.text-teal {
+  color: var(--teal);
+}
+.text-blue {
+  color: var(--blue);
+}
+.text-violet {
+  color: var(--violet);
+}
+.text-purple {
+  color: var(--purple);
+}
+.text-pink {
+  color: var(--pink);
+}
+.text-brown {
+  color: var(--brown);
+}
+.text-grey {
+  color: var(--grey);
+}
+.text-black {
+  color: var(--black);
+}
+.f-w-bold {
+  font-weight: bold;
+} 
+.f-z-1 {
+  font-size: 10px;
+}  
+.f-z-2 {
+  font-size: 15px;
+}  
+.f-z-3 {
+  font-size: 20px;
+}  
+.f-z-4 {
+  font-size: 25px;
+}  
+.f-z-5 {
+  font-size: 30px;
+}  
+.f-z-6 {
+  font-size: 35px;
+}  
+.f-z-7 {
+  font-size: 40px;
+}  
+/* End Text Layout  */ 
 
   
