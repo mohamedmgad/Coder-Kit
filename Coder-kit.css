@@ -45,6 +45,11 @@
   .d-flex {
     display: flex;
   }
+  @media (max-width: 768px) {
+    .d-flex {
+     flex-direction: column;
+    }
+  }
   .flex-wrap {
     flex-wrap: wrap;
   }
@@ -492,6 +497,9 @@ margin-left: 20px;
 }
 .wid-200 {
   width: 200px;
+}
+.width-100 {
+  width: 100%;
 }
 /* end of width-sizing */
 /* start of visibility */
