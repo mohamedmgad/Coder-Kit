@@ -379,5 +379,137 @@ margin-left: 20px;
   font-size: 40px;
 }  
 /* End Text Layout  */ 
-
-  
+/* start of overflow */
+.ov-f-vi {
+  overflow: visible;
+}
+.ov-f-hi {
+  overflow: hidden;
+}
+.ov-f-cl {
+  overflow: clip;
+}
+.ov-f-sc {
+  overflow: scroll;
+}
+.ov-f-au {
+  overflow: auto;
+}
+.ov-f-hv {
+  overflow: hidden visible;
+} 
+.ov-f-inh {
+  overflow: inherit;
+}
+.ov-f-ini {
+  overflow: initial;
+}
+.ov-f-rev {
+  overflow: revert;
+}
+.ov-f-un {
+  overflow: unset;
+}
+/* end of overflow */
+/* start of position */
+.po-st {
+  position: static;
+}
+.po-rel {
+  position: relative;
+}
+.po-abs {
+  position: absolute;
+}
+.po-fi {
+  position: fixed;
+}
+.po-st {
+  position: sticky;
+}
+.po-inh {
+  position: inherit;
+}
+.po-ini {
+  position: initial;
+}
+.po-rev {
+  position: revert;
+}
+.po-un {
+  position: unset;
+}
+/* end of position */
+/* start of width sizing*/
+.wid-max {
+  width: max-content;
+}
+.wid-min {
+  width: min-content;
+}
+.wid-fit {
+  width: fit-content;
+}
+.wid-au {
+  width: auto;
+}
+.wid-10 {
+  width: 10px;
+}
+.wid-20 {
+  width: 20px;
+}
+.wid-30 {
+  width: 30px;
+}
+.wid-40 {
+  width: 40px;
+}
+.wid-50 {
+  width: 50px;
+}
+.wid-60 {
+  width: 60px;
+}
+.wid-70 {
+  width: 70px;
+}
+.wid-80 {
+  width: 80px;
+}
+.wid-90 {
+  width: 90px;
+}
+.wid-100 {
+  width: 100px;
+}
+.wid-150 {
+  width: 150px;
+}
+.wid-200 {
+  width: 200px;
+}
+/* end of width-sizing */
+/* start of visibility */
+.vis-vis {
+  visibility: visible;
+}
+.vis-hi {
+  visibility: hidden;
+}
+.vis-col {
+  visibility: collapse;
+}
+.vis-inh {
+  visibility: inherit;
+}
+.vis-ini {
+  visibility: initial;
+}
+.vis-rev {
+  visibility: revert;
+}
+.vis-un {
+  visibility: unset;
+}
+/* end of visibility */
