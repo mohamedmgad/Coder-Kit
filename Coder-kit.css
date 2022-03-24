@@ -5,12 +5,13 @@
   --yellow: #fbbd08;
   --green: #21ba45;
   --teal: #00b5ad;
-  --blue: #2185d0;
+  --blue: #3EBCF5;
   --violet: #6435c9;
   --purple: #a333c8;
   --pink: #e03997;
   --brown: #a5673f;
   --grey: #767676;
+  --grey-w: #F6F6F6;
   --black: #1b1c1d;
 }
 /* End Variable Color */
@@ -286,6 +287,9 @@ margin-left: 20px;
 .bg-grey {
   background-color: var(--grey);
 }
+.bg-grey-w {
+  background-color: var(--grey-w);
+}
 .bg-black {
   background-color: var(--black);
 }  
@@ -513,3 +517,22 @@ margin-left: 20px;
   visibility: unset;
 }
 /* end of visibility */
+/* Start Lists And Links Layout */
+.list-s-none {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+  padding-left: 10px;
+}
+/* End Lists And Links Layout */
+/* Start Heading */
+h1 ,
+h2 ,
+h3 ,
+h4 ,
+h5 ,
+h6 {
+  margin: 0;
+}
+/* End Heading */
