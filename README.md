@@ -2,9 +2,9 @@
 Framework CSS 
 ## Elzero Web School
 ## Introduction
-** coder-kit is a CSS framework. As such, the sole output is a single CSS file: coder-kit.css
-** You can use that file.
-** There is no JavaScript included. 
+coder-kit is a CSS framework. As such, the sole output is a single CSS file: coder-kit.css <br />
+You can use that file. <br />
+There is no JavaScript included. <br />
 ## Contents
 1. container
 2. Flex Box
@@ -22,3 +22,11 @@ Framework CSS
 14. Opacity
 15. Border
 16. Height
+## Under Construction
+- [ ] Input Layout
+- [ ] Shadows
+- [ ] Select Customize 
+- [ ] Checks and radios Layout
+- [ ] Tables Layout
+- [ ] Z-index
+- [ ] Buttons
