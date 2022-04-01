@@ -30,3 +30,4 @@ There is no JavaScript included. <br />
 - [ ] Tables Layout
 - [ ] Z-index
 - [ ] Buttons
+- [x] Border Radius
