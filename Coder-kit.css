@@ -82,6 +82,9 @@
   .flex-column-r {
     flex-direction: column-reverse;
   }
+  .flex-inherit {
+    flex-direction: inherit;
+  }
   .align-i-c {
     align-items: center;
   }
