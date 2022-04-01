@@ -7,6 +7,7 @@
   --teal: #00b5ad;
   --blue: #3EBCF5;
   --violet: #6435c9;
+  --violet-b: #361283;
   --purple: #a333c8;
   --pink: #e03997;
   --brown: #a5673f;
@@ -302,6 +303,9 @@ margin-left: 20px;
 .bg-violet {
   background-color: var(--violet);
 }
+.bg-violet-b {
+  background-color: var(--violet-b);
+}
 .bg-purple {
   background-color: var(--purple);
 }
@@ -372,6 +376,9 @@ margin-left: 20px;
 }
 .text-violet {
   color: var(--violet);
+}
+.text-violet-b {
+  color: var(--violet-b);
 }
 .text-purple {
   color: var(--purple);
