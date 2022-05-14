@@ -23,7 +23,7 @@ There is no JavaScript included. <br />
 15. Border
 16. Height
 ## Under Construction
-- [ ] Input Layout
+- [x] Input Layout
 - [ ] Shadows
 - [ ] Select Customize 
 - [ ] Checks and radios Layout
