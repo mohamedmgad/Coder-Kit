@@ -973,3 +973,26 @@ h6 {
   border-bottom-left-radius: 0
 }
 /* End Border Radius */
+/* Start Input Form  */
+.form-input {
+  border: 2px solid #bdc3c7;
+  color: #34495e;
+  font-size: 15px;
+  line-height: 1.467;
+  padding: 8px 12px;
+  height: 42px;
+  border-radius: 6px;
+  box-shadow: none;
+  transition: border .25s linear;
+}
+.input-sucess {
+  color: var(--blue);
+  border-color: var(--blue);
+  box-shadow: none;
+}
+.input-error {
+  color: var(--red);
+  border-color:  var(--red);
+  box-shadow: none;
+}
+/* End Input Form  */
