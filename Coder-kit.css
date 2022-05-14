@@ -425,25 +425,25 @@ margin-left: 20px;
 .f-w-800 {
   font-weight: 800;
 } 
-.f-z-1 {
+.f-s-1 {
   font-size: 10px;
 }  
-.f-z-2 {
+.f-s-2 {
   font-size: 15px;
 }  
-.f-z-3 {
+.f-s-3 {
   font-size: 20px;
 }  
-.f-z-4 {
+.f-s-4 {
   font-size: 25px;
 }  
-.f-z-5 {
+.f-s-5 {
   font-size: 30px;
 }  
-.f-z-6 {
+.f-s-6 {
   font-size: 35px;
 }  
-.f-z-7 {
+.f-s-7 {
   font-size: 40px;
 }  
 /* End Text Layout  */ 
@@ -665,103 +665,103 @@ h6 {
 }
   /* Start Border-Top */
 .bor-t-solid5 {
-  border: 5px solid red;
+  border-top: 5px solid red;
 }
 .bor-t-solid10 {
-  border: 10px solid red;
+  border-top: 10px solid red;
 }
 .bor-t-dott {
-  border: 4px dotted blue;
+  border-top: 4px dotted blue;
 }
 .bor-t-dash {
-  border: 4px dashed blue;
+  border-top: 4px dashed blue;
 }
 .bor-t-inset {
-  border: 4px inset;
+  border-top: 4px inset;
 }
 .bor-t-outset {
-  border: 4px outset;
+  border-top: 4px outset;
 }
 .bor-t-ridg {
-  border: 4px ridge;
+  border-top: 4px ridge;
 }
 .bor-t-double {
-  border: double;
+  border-top: double;
 }
   /* Start Border-Bottom */
 .bor-b-solid5 {
-  border: 5px solid red;
+  border-bottom: 5px solid red;
 }
 .bor-b-solid10 {
-  border: 10px solid red;
+  border-bottom: 10px solid red;
 }
 .bor-b-dott {
-  border: 4px dotted blue;
+  border-bottom: 4px dotted blue;
 }
 .bor-b-dash {
-  border: 4px dashed blue;
+  border-bottom: 4px dashed blue;
 }
 .bor-b-inset {
-  border: 4px inset;
+  border-bottom: 4px inset;
 }
 .bor-b-outset {
-  border: 4px outset;
+  border-bottom: 4px outset;
 }
 .bor-b-ridg {
-  border: 4px ridge;
+  border-bottom: 4px ridge;
 }
 .bor-b-double {
-  border: double;
+  border-bottom: double;
 }
   /* Start Border-Right */
 .bor-r-solid5 {
-  border: 5px solid red;
+  border-right: 5px solid red;
 }
 .bor-r-solid10 {
-  border: 10px solid red;
+  border-right: 10px solid red;
 }
 .bor-r-dott {
-  border: 4px dotted blue;
+  border-right: 4px dotted blue;
 }
 .bor-r-dash {
-  border: 4px dashed blue;
+  border-right: 4px dashed blue;
 }
 .bor-r-inset {
-  border: 4px inset;
+  border-right: 4px inset;
 }
 .bor-r-outset {
-  border: 4px outset;
+  border-right: 4px outset;
 }
 .bor-r-ridg {
-  border: 4px ridge;
+  border-right: 4px ridge;
 }
 .bor-r-double {
-  border: double;
+  border-right: double;
 }
   /* Start Border-Left */
 .bor-l-solid5 {
-  border: 5px solid red;
+  border-left: 5px solid red;
 }
 .bor-l-solid10 {
-  border: 10px solid red;
+  border-left: 10px solid red;
 }
 .bor-l-dott {
-  border: 4px dotted blue;
+  border-left: 4px dotted blue;
 }
 .bor-l-dash {
-  border: 4px dashed blue;
+  border-left: 4px dashed blue;
 }
 .bor-l-inset {
-  border: 4px inset;
+  border-left: 4px inset;
 }
 .bor-l-outset {
-  border: 4px outset;
+  border-left: 4px outset;
 }
 .bor-l-ridg {
-  border: 4px ridge;
+  border-left: 4px ridge;
 }
 .bor-l-double {
-  border: double;
+  border-left: double;
 }
 /* Start Border-Width */
 .bor-w-thin {
