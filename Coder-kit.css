@@ -996,3 +996,43 @@ h6 {
   box-shadow: none;
 }
 /* End Input Form  */
+/* Start button Layout */
+.but {
+  padding: 0 1rem;
+  height: 2.125rem;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #ffffff;
+  border: 1px #d9d9d9 solid;
+  color: #262626;
+  cursor: pointer;
+  display: inline-block;
+  outline: none;
+  font-size: .875rem;
+  border-radius: 5px;
+  margin: 0.15625rem 0;
+}
+.but .suc {
+  background: var(--green);
+  color: #ffffff;
+  border-color: var(--green);
+}
+.but .prim {
+  background: var(--blue);
+  color: #ffffff;
+  border-color: var(--blue);
+}
+.but .danger {
+  background: var(--red);
+  color: #ffffff;
+  border-color: var(--red);
+}
+.but .warn {
+  background: var(--yellow);
+  color: #ffffff;
+  border-color: var(--yellow);
+}
+.shadow-suc {
+  box-shadow: 0 0 25px 0 rgb(0 128 0 / 70%);
+}
+/* End button Layout */
