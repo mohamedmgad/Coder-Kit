@@ -29,5 +29,5 @@ There is no JavaScript included. <br />
 - [ ] Checks and radios Layout
 - [ ] Tables Layout
 - [ ] Z-index
-- [ ] Buttons
+- [x] Buttons
 - [x] Border Radius
